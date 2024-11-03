@@ -1,7 +1,13 @@
 Agenda
 
 
-Introduction (Xuesong and Adrian) : 5 minutes  a. Administrivia  b. Objectives of this meeting Background  (Xuesong and Adrian) : 15 minutes  a. Problem  b. Use cases  c. Proposed approaches
+Introduction (Xuesong and Adrian) : 5 minutes  
+  a. Administrivia  
+  b. Objectives of this meeting 
+Background  (Xuesong and Adrian) : 15 minutes  
+  a. Problem  
+  b. Use cases  
+  c. Proposed approaches
       i. Perceptive / adaptive routing
       ii. Adaptive RIFT
 Discussion of what the IETF might do (everyone) : 40 minutes
