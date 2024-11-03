@@ -14,11 +14,13 @@ WebEx: https://ietf.webex.com/meet/ietfsidemeeting2
   ## a. Problem  
   ## b. Use cases  
   ## c. Proposed approaches
+ 
  i. Perceptive / adaptive routing
+ 
  ii. Adaptive RIFT
       
 # Discussion of what the IETF might do (everyone) : 40 minutes
-  Questions:
+ Questions:
   
  a. Do we agree on the problem space?
  
@@ -34,9 +36,9 @@ WebEx: https://ietf.webex.com/meet/ietfsidemeeting2
  
  g. Next steps
  
-      i. Ask for a mailing list
-      
-      ii. Consolidate and advance the drafts
-      
-      iii. Plan for a BoF in Bangkok
+ i. Ask for a mailing list
+ 
+ ii. Consolidate and advance the drafts
+ 
+ iii. Plan for a BoF in Bangkok
 
