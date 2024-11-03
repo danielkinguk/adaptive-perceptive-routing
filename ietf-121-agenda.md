@@ -40,11 +40,11 @@ WebEx: https://ietf.webex.com/meet/ietfsidemeeting2
  
  ### h. Who else should be involved in these discussions?
  
- i. Next steps
+ # Next steps
  
-   i. Ask for a mailing list
+ ## a. Ask for a mailing list
  
-   ii. Consolidate and advance the drafts
+ Consolidate and advance the drafts
  
    iii. Plan for a BoF in Bangkok
 
