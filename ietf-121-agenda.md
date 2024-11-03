@@ -20,7 +20,7 @@ WebEx: https://ietf.webex.com/meet/ietfsidemeeting2
  ii. Adaptive RIFT
       
 # Discussion of what the IETF might do (everyone) : 40 minutes
- Questions:
+## Questions for everyone:
   
  a. Do we agree on the problem space?
  
