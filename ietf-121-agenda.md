@@ -17,9 +17,9 @@ WebEx: https://ietf.webex.com/meet/ietfsidemeeting2
   ## b. Use cases  
   ## c. Proposed approaches
  
- i. Perceptive / adaptive routing
+  ### i. Perceptive / adaptive routing
  
- ii. Adaptive RIFT
+  ### ii. Adaptive RIFT
       
 # Discussion of what the IETF might do (everyone) : 40 minutes
 
