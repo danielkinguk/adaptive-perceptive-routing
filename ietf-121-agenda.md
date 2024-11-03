@@ -26,19 +26,19 @@ WebEx: https://ietf.webex.com/meet/ietfsidemeeting2
   
  ### a. Do we agree on the problem space?
  
- b. Is there IETF work to be done?
+ ### b. Is there IETF work to be done?
 
- c. Why/how is this different from [RFC 3286](https://datatracker.ietf.org/doc/rfc2386/)?
+ ### c. Why/how is this different from [RFC 3286](https://datatracker.ietf.org/doc/rfc2386/)?
 
- d. Do implementtions in the data centre care about interop or is this secret sauce?
+ ### d. Do implementtions in the data centre care about interop or is this secret sauce?
  
- e. What might be the deliverables?
+ ### e. What might be the deliverables?
  
- f. Is it "just" tweaking existing protocols?
+ ### f. Is it "just" tweaking existing protocols?
  
- g. Does it need a new place (working group) to do the work?
+ ### g. Does it need a new place (working group) to do the work?
  
- h. Who else should be involved in these discussions?
+ ### h. Who else should be involved in these discussions?
  
  i. Next steps
  
