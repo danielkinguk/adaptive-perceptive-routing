@@ -1,17 +1,21 @@
 Agenda
 
+WebEx: https://ietf.webex.com/meet/ietfsidemeeting2
 
-Introduction (Xuesong and Adrian) : 5 minutes  
+# Introduction (Xuesong and Adrian) : 5 minutes  
   a. Administrivia  
   b. Objectives of this meeting 
-Background  (Xuesong and Adrian) : 15 minutes  
+
+# Background  (Xuesong and Adrian) : 15 minutes  
   a. Problem  
   b. Use cases  
   c. Proposed approaches
       i. Perceptive / adaptive routing
       ii. Adaptive RIFT
-Discussion of what the IETF might do (everyone) : 40 minutes
+      
+# Discussion of what the IETF might do (everyone) : 40 minutes
   Questions:
+  
  a. Do we agree on the problem space?
  b. Is there IETF work to be done?
  c. What might be the deliverables?
