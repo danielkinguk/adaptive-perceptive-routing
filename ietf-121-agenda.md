@@ -13,13 +13,13 @@ WebEx: https://ietf.webex.com/meet/ietfsidemeeting2
   ## b. Objectives of this meeting 
 
 # Background  (Xuesong and Adrian) : 15 minutes  
-  ## a. Problem  
-  ## b. Use cases  
-  ## c. Proposed approaches
+  ### a. Problem  
+  ### b. Use cases  
+  ### c. Proposed approaches
  
-  ### i. Perceptive / adaptive routing
+  #### i. Perceptive / adaptive routing
  
-  ### ii. Adaptive RIFT
+  #### ii. Adaptive RIFT
       
 # Discussion of what the IETF might do (everyone) : 40 minutes
 
