@@ -4,6 +4,8 @@ Date: MONDAY 4 November
 
 Time: 17:00-18:00
 
+Location: Wicklow Hall 2A
+
 WebEx: https://ietf.webex.com/meet/ietfsidemeeting2
 
 # Introduction (Xuesong and Adrian) : 5 minutes  
