@@ -4,7 +4,7 @@ Date: MONDAY 4 November
 
 Time: 17:00-18:00
 
-Location: Wicklow Hall 2A
+Location: [Wicklow Hall 2A](https://datatracker.ietf.org/meeting/121/floor-plan?room=wicklow-hall-2a)
 
 WebEx: https://ietf.webex.com/meet/ietfsidemeeting2
 
