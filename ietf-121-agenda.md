@@ -38,9 +38,9 @@ WebEx: https://ietf.webex.com/meet/ietfsidemeeting2
  
  g. Next steps
  
- i. Ask for a mailing list
+   i. Ask for a mailing list
  
- ii. Consolidate and advance the drafts
+   ii. Consolidate and advance the drafts
  
- iii. Plan for a BoF in Bangkok
+   iii. Plan for a BoF in Bangkok
 
