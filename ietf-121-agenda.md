@@ -9,8 +9,8 @@ Location: Wicklow Hall 2A
 WebEx: https://ietf.webex.com/meet/ietfsidemeeting2
 
 # Introduction (Xuesong and Adrian) : 5 minutes  
-  ## a. Administrivia  
-  ## b. Objectives of this meeting 
+  ### a. Administrivia  
+  ### b. Objectives of this meeting 
 
 # Background  (Xuesong and Adrian) : 15 minutes  
   ### a. Problem  
