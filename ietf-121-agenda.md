@@ -1,4 +1,6 @@
 Agenda
+Date: MONDAY 4 November
+Time: 17:00-18:00
 
 WebEx: https://ietf.webex.com/meet/ietfsidemeeting2
 
