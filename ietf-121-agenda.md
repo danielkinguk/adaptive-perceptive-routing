@@ -27,6 +27,8 @@ WebEx: https://ietf.webex.com/meet/ietfsidemeeting2
  a. Do we agree on the problem space?
  
  b. Is there IETF work to be done?
+
+ c. Why/how is this different from [RFC 3286](https://datatracker.ietf.org/doc/rfc2386/)?
  
  c. What might be the deliverables?
  
